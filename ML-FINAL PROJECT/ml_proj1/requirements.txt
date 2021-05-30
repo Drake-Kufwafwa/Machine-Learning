@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+pandas
+numpy
+seaborn
+scipy
+scikit-learn
+requests
+datetime
+keras
+tensorflow
